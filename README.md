@@ -17,7 +17,7 @@ To run the application locally, follow these steps:
 ```bash
 git clone https://github.com/yourusername/Dynamic-Event-Calendar.git
 
-cd event_calendar
+cd Dynamic-Event-Calendar
 ```
 2. **Install Dependencies**: Install Node.js and then run `npm install` in the terminal.
 3. **Start the development server**: Run `npm start` in the terminal.
