@@ -15,7 +15,7 @@ The application helps a user to manage its important events effectively. Followi
 To run the application locally, follow these steps:
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/Dyanmic-Event-Calendar.git
+git clone https://github.com/yourusername/Dynamic-Event-Calendar.git
 
 cd event_calendar
 ```
@@ -25,4 +25,5 @@ cd event_calendar
 
 ## Deployed App
 The live version of the application can be accessed through the following link:
+[https://dynamic-event-calendar-yu1s-cd78kbj4z-piyush-ranjans-projects.vercel.app/](https://dynamic-event-calendar-yu1s-cd78kbj4z-piyush-ranjans-projects.vercel.app/)
 
